@@ -6,4 +6,7 @@ pip install yt_dlp pydub
 '''
 
 ## Now Ready to run your code
+'''
+python extract.py
+'''
 !!Enjoy!!
